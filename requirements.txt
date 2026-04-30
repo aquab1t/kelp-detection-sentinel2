@@ -1,0 +1,13 @@
+numpy>=1.20.0
+rasterio>=1.2.0
+scipy>=1.6.0
+joblib>=1.0.0
+tqdm>=4.60.0
+tflite-runtime>=2.7.0
+
+# Alternative: ai-edge-litert can replace tflite-runtime on some platforms
+# ai-edge-litert>=1.0.0
+
+# Optional: for visualization and notebooks
+# matplotlib>=3.3.0
+# jupyter>=1.0.0
